@@ -1,6 +1,12 @@
 # TensorFlowDemoAPK
 Before Installation, make sure you are using Android 5.0 or higher
 
+Demo APK Download link:
+https://drive.google.com/file/d/0B6JHKJylCp8ES1g0bGdVV1dCRWc/view?usp=sharing
+
+No_tensorflow_demo Download link:
+https://drive.google.com/file/d/0B6JHKJylCp8EdjZ4SWFGeU13OEU/view?usp=sharing
+
 No_tensorflow_demo.apk is the one turn off tensorflow but keep all other functions.
 
 If adb debugging is enabled on your Android 5.0 or later device, you may then
